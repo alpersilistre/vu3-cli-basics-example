@@ -1,4 +1,5 @@
 # vue-cli-3-example
+This is an example project to test Vue 3 Cli features.
 
 ## Project setup
 ```
